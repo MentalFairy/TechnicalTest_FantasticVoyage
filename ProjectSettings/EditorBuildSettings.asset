@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Coworking office/Scenes/Layout_1.unity
     guid: 7985ccc401f488c419a8ee2f447f4dc6
+  - enabled: 1
+    path: Assets/Scenes/MiniBot.unity
+    guid: 7f72b817cdb1a744c8797a91a4dfa996
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 840b675e7ff4f704ab9df006b7574870,
       type: 2}

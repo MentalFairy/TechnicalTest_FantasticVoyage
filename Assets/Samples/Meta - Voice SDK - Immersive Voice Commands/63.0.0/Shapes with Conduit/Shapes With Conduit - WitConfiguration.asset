@@ -41,6 +41,9 @@ MonoBehaviour:
       - name: color
         id: 629054192387147
       keywords:
+      - keyword: Gray
+        synonyms:
+        - gray
       - keyword: black
         synonyms:
         - black
@@ -675,7 +678,6 @@ MonoBehaviour:
       styles: []
       supported_features: []
   _configData:
-  - {fileID: 8582304952152201332}
   - {fileID: 8943820230535105028}
   _configurationId: 4e21a24e472ab684e84db753427d5687
   timeoutMS: 10000
@@ -697,7 +699,7 @@ MonoBehaviour:
   - Meta.Voice.Samples.Chess, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   - Meta.Voice.Samples.WitShapes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   relaxedResolution: 0
-  _lastRefreshSeconds: 1704738291.2768996
+  _lastRefreshSeconds: 1715697385.0123508
 --- !u!114 &8582304952152201332
 MonoBehaviour:
   m_ObjectHideFlags: 0
